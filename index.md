@@ -19,7 +19,7 @@ Sera le genre humain.
 During middle school, I created my first website using `HTML`, `CSS`, and `JavaScript`. I learned `Java`, `Python`, and `C++` during high school.   
 
 ## Here is a meme
-[A meme](pictures/python_meme.png)
+[A meme](pictures/python_meme.png).  
 [Another meme]([pictures/python_meme.png](https://www.linkedin.com/in/thomasapowell/))
 
 
