@@ -20,6 +20,8 @@ During middle school, I created my first website using `HTML`, `CSS`, and `JavaS
 
 ## Here is a meme
 [A meme](pictures/python_meme.png)
+[Another meme]([pictures/python_meme.png](https://www.linkedin.com/in/thomasapowell/))
+
 
 ## Fruits
 - Apple
