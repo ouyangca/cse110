@@ -1,6 +1,6 @@
 # Jessie's User Page
 
-![Jessie's Profile Picture](pictures/profile_pic)
+![Jessie's Profile Picture](https://media.licdn.com/dms/image/C5603AQGJ9Hf5FwojWg/profile-displayphoto-shrink_800_800/0/1608119288905?e=1686787200&v=beta&t=hGIcCauiH9VnqVkDhLGwtmGzxd8tEulC8xMW4JFnh4o)
 
 Hi, my name is Jessie Ouyang and I am a 2nd-year undergrad student at *UC San Diego*.   
 
